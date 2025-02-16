@@ -1,8 +1,8 @@
-# Easypanel Templates
+# Aethium.io
 
-In this repository, you will find the templates available in Easypanel.
+Aethium.io project repository
 
-[Playground URL](https://easypanel-templates.netlify.app/)
+[Playground URL](https://aethium.io/playground)
 
 ## Defining Templates
 
