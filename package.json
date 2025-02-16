@@ -1,5 +1,5 @@
 {
-  "name": "templates",
+  "name": "aethium",
   "version": "0.2.0",
   "private": true,
   "scripts": {
@@ -58,5 +58,9 @@
     "ts-node": "^10.9.2",
     "tsconfig-paths": "^4.2.0",
     "typescript": "5.6.2"
-  }
+  },
+  "description": "Aethium.io project",
+  "repository": "Edgey-Tek/aethium",
+  "homepage": "https://aethium.io",
+  "bugs": "https://github.com/Edgey-Tek/aethium/issues"
 }
